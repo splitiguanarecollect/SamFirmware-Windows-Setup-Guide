@@ -1,0 +1,33 @@
+{
+  "repo": "SamFirmware-Windows-Setup-Guide",
+  "product": "SamFirmware \u2014 Windows Setup Guide",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-1-part-powershell-70",
+  "format": "license-md-geogit-v4-seo-product",
+  "category": "desktop",
+  "topics": [
+    "samfirmware-windows-setup-guide",
+    "samfirmware-windows",
+    "windows-10",
+    "windows-11",
+    "windows-desktop",
+    "phone-flash-tool",
+    "firmware-tool",
+    "android-tool",
+    "samfirmware-software",
+    "samfirmware-2026",
+    "desktop-software",
+    "windows-software",
+    "software-install",
+    "install-guide",
+    "pc-software"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
